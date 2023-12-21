@@ -4,7 +4,7 @@
 
 Hi! My name is Rafał and I am a 30-year-old resident of Wrocław, Poland. I love trips and watching movies. When I have more time, I read fantasy novels and cook delicious meals with my wife.
 
-Why do I love being a software tester? 
+**Why do I love being a software tester?** 
 
 I think the QA has a key role to help people make their life easier - both developers and clients. And I really like helping people. It has impact also in work with my team, where I always make documentation as clear as possible. I love to use my creativity and flexibility to make new ways or point the wrong direction. Also, I am a person, who has large attention to detail, which helps me find even small glitches in testing area.
 
@@ -26,18 +26,22 @@ Since February 2023 I worked as QA Tester in German company iApps Technologies. 
 ## Certificates
 
 ISTQB Foundation Level 
+
 ## Tools
 
-* JIRA - bug tracker
-* Trello, Confluence - project management
-* Test rail - test cases management
-* Slack - to comunicate with the team
-* Figma - UI design
-* BrowserStack - platform to test both web and applications on remote devices
-* Chrome DevTools - testing and improve bug reports
-* Git / Github
-* MySQL - relational database management system
-* Postman - testing tool for REST API
+* JIRA - bug tracker;
+* Trello, Confluence - project management;
+* Test rail - test cases management;
+* Android Studio / XCode - building apps, and testing on branches;
+* Slack - to comunicate with the team;
+* Figma/Canva - UI design;
+* BrowserStack - platform to test both web and applications on remote devices;
+* Chrome DevTools - testing and improve bug reports;
+* Git / Github;
+* MySQL - relational database management system;
+* HTML / CSS
+* Postman - testing tool for REST API;
+* Charles Proxy / Proxyman;
 
 ## Books and Blogs
 
@@ -52,14 +56,18 @@ ISTQB Foundation Level
 ## My projects
 
 **Bugs report**
-I attached link to sample bug report I made in my job. I removed details and attachments from them.
+
+* Bug tickets - [LINK](https://drive.google.com/drive/u/3/folders/18tbx3XzFGVFWKlWlhLOelERHFg3eSwBS)
+
+* Bugs report - [LINK](https://docs.google.com/spreadsheets/d/1carFRfz13E_EJ43DCgqXdRR2b5ozVPhV/edit?rtpof=true#gid=446805955)
 
 **Test cases**
 
+Test cases created to my HTML project - Login screen - [LINK](https://docs.google.com/spreadsheets/d/1gaDp-duLA9gXX1idqFF7ElCNGOZ0ADYo/edit#gid=1652753228)
 
 **HTML/CSS**
 
-My CV - [LINK]
+* My CV - [LINK]
 
-Login screen - [LINK](https://magenta-smakager-a9648f.netlify.app/)
+* Login screen - [LINK](https://magenta-smakager-a9648f.netlify.app/)
 
