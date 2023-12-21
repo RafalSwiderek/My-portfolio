@@ -4,13 +4,17 @@
 
 Hi! My name is Rafał and I am a 30-year-old resident of Wrocław, Poland. I love trips and watching movies. When I have more time, I read fantasy novels and cook delicious meals with my wife.
 
+Why do I love being a software tester? 
+
+I think the QA has a key role to help people make their life easier - both developers and clients. And I really like helping people. It has impact also in work with my team, where I always make documentation as clear as possible. I love to use my creativity and flexibility to make new ways or point the wrong direction. Also, I am a person, who has large attention to detail, which helps me find even small glitches in testing area.
+
 I invite you to check out my testing portfolio!
 
 **My experience**
 
 Since 2021 I am a manual tester, first at QTF Sp. z o. o. based in Wrocław. Starting cooperation with the employer was a new start in my professional life. During my daily work, I developed my competences, taking advantage of every opportunity to gain new knowledge and experience. As part of my duties, I was responsible for conducting manual tests on mobile applications for both Android and iOS platforms. I use tools such as: JIRA, TestRail, Android Studio or Xcode. The position required me not only to take independent actions and optimize my own working time, but also to stay in touch with developers in order to make current reports and correct noticed bugs and errors. This cooperation allowed me to get to know and use Git and Github, because it was often required to carry out retests on a developer’s branch.
 
-Since February 2023 I worked as QA Tester in German company iApps Technologies. The company provides software for e-paper version of biggest German newspaper. My daily tasks focus on manual testing on web and platform applications. During my daily task, I use tools such as BrowserStack or dev tools.
+Since February 2023 I worked as QA Tester in German company iApps Technologies. The company provides software for e-paper version of biggest German newspaper. My daily tasks focus on manual testing on web and platform applications. During my daily task, I use tools such as BrowserStack or Chrome DevTools.
 
 ## Courses
 
@@ -21,8 +25,7 @@ Since February 2023 I worked as QA Tester in German company iApps Technologies. 
 
 ## Certificates
 
-ISTQB Foundation Level passed in 
-
+ISTQB Foundation Level 
 ## Tools
 
 * JIRA - bug tracker
