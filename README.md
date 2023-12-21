@@ -67,7 +67,7 @@ Test cases created to my HTML project - Login screen - [LINK](https://docs.googl
 
 **HTML/CSS**
 
-* My CV - [LINK]
+* My CV - [LINK](https://rafalswiderekcv.netlify.app/)
 
 * Login screen - [LINK](https://magenta-smakager-a9648f.netlify.app/)
 
