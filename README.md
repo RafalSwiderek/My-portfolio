@@ -55,6 +55,8 @@ I attached link to sample bug report I made in my job. I removed details and att
 
 
 **HTML/CSS**
-My CV - LINK
-Login screen - LINK
+
+My CV - [LINK]
+
+Login screen - [LINK](https://magenta-smakager-a9648f.netlify.app/)
 
