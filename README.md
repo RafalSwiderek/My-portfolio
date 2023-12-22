@@ -25,7 +25,7 @@ Since February 2023 I worked as QA Tester in German company iApps Technologies. 
 
 ## Certificates
 
-ISTQB Foundation Level 
+ISTQB Foundation Level - N° 15153/FLCT/2020
 
 ## Tools
 
