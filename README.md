@@ -57,7 +57,7 @@ ISTQB Foundation Level - N° 15153/FLCT/2020
 
 **Bugs report**
 
-* Bug tickets - [LINK](https://drive.google.com/drive/u/3/folders/18tbx3XzFGVFWKlWlhLOelERHFg3eSwBS)
+* Bug tickets - [LINK](https://drive.google.com/file/d/1gKTbbRLqIvESifMeVjEVMT3KGH9pjhl9/view?usp=sharing)
 
 * Bugs report - [LINK](https://docs.google.com/spreadsheets/d/1carFRfz13E_EJ43DCgqXdRR2b5ozVPhV/edit?rtpof=true#gid=446805955)
 
