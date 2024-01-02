@@ -21,7 +21,10 @@ Since February 2023 I worked as QA Tester in German company iApps Technologies. 
 * **"Software Tester" course in Software Developent Academy**
 * **Kurs Git dla początkujących - [Udemy](https://www.udemy.com/course/kurs-gita/)**
 * **HTML5 & CSS3 Complete Course: Build Websites like a Pro - [Udemy](https://www.udemy.com/course/html5-css-fundamentals/)**
+* **Devtools Pro: Beginner to Expert w/ Chrome Developer Tools - [Udemy](https://www.udemy.com/course/master-google-chrome-developer-tools/)**
+
 * **Kurs SQL nowoczesne bazy danych - [strefakursow.pl](https://strefakursow.pl/kursy/programowanie/kurs_sql_nowoczesne_bazy_danych.html)**
+
 
 ## Certificates
 
